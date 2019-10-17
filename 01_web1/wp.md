@@ -1,5 +1,6 @@
 #web1
 #Title:cookies异常
+#flag:flag{1284dc540c427d9b02ef5e0956e95489}
 #code:main.py
 
 1通过尝试任意注册发现cookies的uid和username是base64编码
